@@ -19,3 +19,4 @@ Remember to include references in your blog, to the video, and to any documentat
 ## Blog Post Focus 📝
 
 - **Clarity is essential**: Write your blog post clearly and concisely, making it easy for anyone to grasp the concepts, regardless of their prior Kubernetes experience.
+
